@@ -1,0 +1,1 @@
+{"jobID":"4b10c4cc-2698-dd07-e139-fa516d582aa9","spec":{"type":"policy","cause":{"Message":"","User":"Parker Johansen \u003cjohansen.parker@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
